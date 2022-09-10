@@ -1,0 +1,60 @@
+# Part1
+
+# sum                     
+jennifer@jenniferde-MacBook-Pro CSCE-606 % rspec -e '#sum ' spec/part1_spec.rb
+Run options: include {:full_description=>/\#sum\ /}
+...
+
+Finished in 0.00816 seconds (files took 0.14279 seconds to load)
+3 examples, 0 failures
+
+# max_2_sum
+jennifer@jenniferde-MacBook-Pro CSCE-606 % rspec -e '#max_2_sum' spec/part1_spec.rb
+Run options: include {:full_description=>/\#max_2_sum/}
+.....
+
+Finished in 0.00985 seconds (files took 0.22323 seconds to load)
+5 examples, 0 failures
+
+# sum_to_n?
+jennifer@jenniferde-MacBook-Pro CSCE-606 % rspec -e '#sum_to_n' spec/part1_spec.rb
+Run options: include {:full_description=>/\#sum_to_n/}
+....
+
+Finished in 0.00262 seconds (files took 0.10086 seconds to load)
+4 examples, 0 failures
+
+# Part2
+
+# hello
+jennifer@jenniferde-MacBook-Pro CSCE-606 % rspec -e '#hello' spec/part2_spec.rb
+Run options: include {:full_description=>/\#hello/}
+..
+
+Finished in 0.00494 seconds (files took 0.23539 seconds to load)
+2 examples, 0 failures
+
+# starts_with_consonant?
+jennifer@jenniferde-MacBook-Pro CSCE-606 % rspec -e '#starts_with_consonant?' spec/part2_spec.rb
+Run options: include {:full_description=>/\#starts_with_consonant\?/}
+.....
+
+Finished in 0.0066 seconds (files took 0.55529 seconds to load)
+5 examples, 0 failures
+
+# binary_multiple_of_4?
+jennifer@jenniferde-MacBook-Pro CSCE-606 % rspec -e '#binary_multiple_of_4?' spec/part2_spec.rb
+Run options: include {:full_description=>/\#binary_multiple_of_4\?/}
+...
+
+Finished in 0.00265 seconds (files took 0.10107 seconds to load)
+3 examples, 0 failures
+
+# Part3
+
+# BookInStock
+jennifer@jenniferde-MacBook-Pro CSCE-606 % rspec spec/part3_spec.rb
+............
+
+Finished in 0.01402 seconds (files took 0.20972 seconds to load)
+12 examples, 0 failures
